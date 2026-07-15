@@ -1,0 +1,17 @@
+{
+  "name": "problem8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: Running test cases...\" && exit 1",
+    "dev":"nodemon index.js",
+    "systemInfo":"node systemInfo.js",
+    "delete-folder":"node delete.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

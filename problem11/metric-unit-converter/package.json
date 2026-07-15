@@ -1,0 +1,22 @@
+{
+  "name": "metric-unit-converter",
+  "version": "1.0.0",
+  "description": "A simple Node.js package for unit conversion",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "converter",
+    "unit",
+    "temperature",
+    "length",
+    "weight"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "metric-unit-converter": "^1.0.0"
+  }
+}
